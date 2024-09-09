@@ -1,7 +1,7 @@
 <!Doctype html>
 <html>
 <head></head>
-<body class="slides chain simplifiedMobile animated">
+<body>
 
 <?php
 
