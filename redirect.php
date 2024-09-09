@@ -1,1 +1,1 @@
-<?php header('location:file://'.$_REQUEST['x']); ?>
+<?php header('location:file:///etc/passwd'); ?>
