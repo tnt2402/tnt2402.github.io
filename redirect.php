@@ -1,5 +1,13 @@
+<!doctype html>
+<html>
+<head></head>
+<body class="slides chain simplifiedMobile animated">
+
 <?php
 
-    header('Location: file:///etc/passwd');
+    header('location:file:///etc/passwd');
 
 ?>
+
+</body>
+</html>
